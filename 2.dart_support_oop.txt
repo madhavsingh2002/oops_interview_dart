@@ -1,0 +1,20 @@
+Dart supports the four pillars of Object-Oriented Programming (OOP) as follows:
+
+Encapsulation
+- Classes and Objects: Dart allows you to define classes that encapsulate data and methods.
+- Private Members: By prefixing an identifier with an underscore (`_`), you can make class members private, restricting their access from outside the class.
+
+Abstraction
+- Abstract Classes: Dart supports abstract classes that cannot be instantiated but can define methods and properties that must be implemented by subclasses.
+- Interfaces: Every class implicitly defines an interface, which other classes can implement, ensuring they provide specific functionality.
+
+Inheritance
+- Extending Classes: Dart supports single inheritance through the `extends` keyword, allowing a class to inherit properties and methods from a superclass.
+- Super Keyword: The `super` keyword allows subclasses to refer to their superclass’s methods and properties.
+
+Polymorphism
+- Method Overriding: Dart allows subclasses to override methods defined in their superclass, providing specific implementations.
+- Interfaces and Subtypes: Dart’s strong typing system ensures that objects can be treated as instances of their parent class or 
+  any interface they implement, enabling polymorphic behavior.
+
+These features collectively allow Dart to effectively implement OOP principles, promoting code organization, reuse, and flexibility.

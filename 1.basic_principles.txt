@@ -1,0 +1,6 @@
+The basic principles of Object-Oriented Programming (OOP) are:
+
+1. Encapsulation: Bundling data and methods within classes, hiding internal states.
+2. Abstraction: Simplifying complex systems by modeling classes appropriate to the problem.
+3. Inheritance: Creating new classes from existing ones, promoting code reuse.
+4. Polymorphism: Allowing objects to be treated as instances of their parent class, enabling flexibility.
